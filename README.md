@@ -1,1 +1,9 @@
-# hackaton
+# NMKR 2025 Hackaton entry - VeriScript
+
+Example addresses:
+- addr_test1wqlcn3pks3xdptxjw9pqrqtcx6ev694sstsruw3phd57ttg0lh0zq
+- 703f89c436844cd0acd2714201817836b2cd16b082e03e3a21bb69e5ad
+
+
+- addr_test1vz7xs7ceu4xx9n5xn57lfe86vrwddqpp77vjwq5ptlkh49cqy3wur
+- 60bc687b19e54c62ce869d3df4e4fa60dcd68021f7992702815fed7a97
